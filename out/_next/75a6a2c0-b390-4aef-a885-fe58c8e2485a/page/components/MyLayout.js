@@ -1,0 +1,6 @@
+
+          window.__NEXT_REGISTER_PAGE('/components/MyLayout', function() {
+            var comp = module.exports=webpackJsonp([7],{239:function(e,t,n){e.exports=n(240)},240:function(e,t,n){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var l=n(1),r=a(l),c=n(75),o=a(c),d=n(43),s=a(d),u={margin:20,padding:20,border:"1px solid #DDD"},i=function(e){return r.default.createElement("div",{style:u},r.default.createElement(s.default,null,r.default.createElement("title",null,"Chào mừng bạn đến với trang chủ"),r.default.createElement("meta",{name:"viewport",content:"initial-scale=1.0, width=device-width"}),r.default.createElement("link",{rel:"stylesheet",media:"screen",href:"//netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"}),r.default.createElement("script",{src:"//code.jquery.com/jquery.js"}),r.default.createElement("script",{src:"//netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"})),r.default.createElement(o.default,null),e.children)};t.default=i}},[239]);
+            return { page: comp.default }
+          })
+        

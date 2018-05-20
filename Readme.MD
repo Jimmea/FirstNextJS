@@ -1,4 +1,6 @@
-## Scotch Next.js
+#Document
+https://nextjs.org/docs#setup
+## Next.js
 Next.js demo for Scotch tutorial on Next.js
 
 ### Usage

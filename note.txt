@@ -1,0 +1,9 @@
+#API
+https://api.tvmaze.com/search/shows?q=batman
+https://api.tvmaze.com/shows/${id}
+http://api.football-data.org/v1/competitions/426/leagueTable
+
+
+#Component
+rsc : ({post, key}) : Extract a spectify props
+rsc : (props) : comporess all props
